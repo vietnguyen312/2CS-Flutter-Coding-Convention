@@ -22,3 +22,23 @@ Example:
 - ToDosLoaded
 - ToDosLoadingFailed
 ```
+# Functions ordering
+```
+Function A() {
+  B();
+  D();
+}
+
+Function B() {
+  E();
+}
+
+Function E() {
+}
+
+Function D() {
+}
+
+Function C() {
+}
+```
