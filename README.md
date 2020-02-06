@@ -41,4 +41,8 @@ Function D() {
 
 Function C() {
 }
+
+FunctionF() {
+ E()
+}
 ```
