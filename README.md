@@ -18,9 +18,9 @@ Example:
 
 Example:
 ```
-- ToDosLoading
-- ToDosLoaded
-- ToDosLoadingFailed
+- Loading
+- Loaded
+- LoadFailed
 ```
 # Functions ordering
 ```
