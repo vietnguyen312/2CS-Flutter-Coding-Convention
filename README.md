@@ -84,7 +84,7 @@ FunctionF() {
 ```
 - feature/192390_feature_name
 
-- hotfix/134233_hotfix_name
+- bugfix/134233_hotfix_name
 
 - release/1.0.130
 ```
