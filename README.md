@@ -35,6 +35,19 @@ Example:
 | Extension name |Add `extension` as suffix, Exp: `DateTimeExtension` | 
 
 # Coding
+
+### Class definition:
+```
+class ClassName {
+  private _variable;
+  public variable; // (implicit getter & setter)
+  public getter & setter (explicit or custom getters and setters)
+  Constructor();
+  Method1();
+  Method2()
+}
+```
+
 ### Linebreak:
 Leaf elemenent: (params < 2 && column < 140): inline. and inverse.
 
